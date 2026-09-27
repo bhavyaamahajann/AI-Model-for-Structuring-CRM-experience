@@ -8,6 +8,11 @@ This repository houses the end-to-end framework, prompts, schemas, and operation
 
 ---
 
+### 🌐 Interactive Dashboard Prototype
+* **Live Dashboard View**: [FinServeCo AI Quality Dashboard Prototype](https://wild-decay-45365771.figma.site/)
+
+---
+
 ### Key Goals & Value Delivered
 * **Business Impact**: Automated compliance and risk audits, flagging BPO non-compliance and policy breaches, protecting revenue by mitigating regulatory exposure.
 * **Product Impact**: Transforms unstructured support interactions (chat, email, voice) into structured JSON assets. Enables root-cause-driven product fixes and boosts First Contact Resolution (FCR).
